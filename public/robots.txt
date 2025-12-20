@@ -9,4 +9,4 @@ Disallow: /.env
 
 Allow: /
 
-Sitemap: https://domainkamu.com/sitemap.xml
+Sitemap: https://raysouvenir.com/sitemap.xml
