@@ -32,9 +32,13 @@
     <meta name="twitter:image" content="{{ asset('assets/img/seo/og-image.jpg') }}">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('/') }}/assets/img/favicon.ico">
 
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('/') }}/assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('/') }}/assets/img/favicon-16x16.png">
+    <link rel="manifest" href="{{ asset('/') }}/assets/img/site.webmanifest">
+    
     <!-- CSS here -->
     <link rel="stylesheet" href="{{ asset('/') }}/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="{{ asset('/') }}/assets/css/owl.carousel.min.css">
