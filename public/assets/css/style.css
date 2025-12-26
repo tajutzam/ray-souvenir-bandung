@@ -2833,19 +2833,23 @@ hr {
     }
 }
 
+/* Default: MOBILE */
+.slider-area,
 .slider-area2 {
-    background-image: url(../img/hero/bg-1.jpeg);
+    background-image: url("../img/hero/bg-1.jpeg");
     background-repeat: no-repeat;
-    background-size: cover
+    background-position: center;
+    background-size: cover;
 }
 
-.slider-area {
-    margin-top: -1px;
-    background-image: url(../img/hero/h1_hero.png);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;
-    background-attachment: fixed
+/* DESKTOP */
+@media (min-width: 992px) {
+
+    .slider-area,
+    .slider-area2 {
+        background-image: url("../img/hero/bg-2.jpeg");
+        background-attachment: fixed;
+    }
 }
 
 .slider-area .hero__caption {
@@ -3877,7 +3881,7 @@ hr {
     margin-bottom: 30px;
 }
 
-.footer-logo img{
+.footer-logo img {
     height: 100px;
 }
 
