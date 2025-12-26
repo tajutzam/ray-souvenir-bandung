@@ -1,12 +1,6 @@
-Disallow: /admin
-Disallow: /login
-Disallow: /register
-Disallow: /dashboard
+User-agent: *
+Disallow: /
 
-Disallow: /storage/
-Disallow: /vendor/
-Disallow: /.env
-
-Allow: /
+Allow: /$
 
 Sitemap: https://raysouvenir.com/sitemap.xml
