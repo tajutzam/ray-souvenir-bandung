@@ -15,20 +15,23 @@
                             Tentang Toko Kami
                         </span>
                         <h2 data-aos="fade-up" data-aos-delay="400">
-                            20 Tahun Menyediakan Souvenir Unik untuk Anda!
+                            KAMI PASTIKAN KEBUTUHAN RUBBER CUSTOM SOUVENIR ANDA TERPENUHI DISINI.
                         </h2>
                     </div>
 
                     <p class="mb-30 pera-bottom" data-aos="fade-up" data-aos-delay="500">
-                        Ray Souvenir menyediakan berbagai pilihan souvenir berkualitas
-                        tinggi, mulai dari kerajinan tradisional hingga desain modern.
-                        Setiap produk dipilih dengan teliti untuk memberikan kenangan
-                        berarti bagi Anda dan orang terkasih.
+                        Ray Souvenir menyediakan berbagai macam souvenir karet berkualitas tinggi seperti gelang karet,
+                        gantungan kunci, label, tatakan gelas, dan lainnya dengan desain custom sesuai keinginan
+                        pelanggan.
                     </p>
 
                     <p class="pera-top mb-50" data-aos="fade-up" data-aos-delay="600">
-                        Kami berkomitmen menghadirkan souvenir terbaik yang mencerminkan
-                        budaya, keindahan, dan momen tak terlupakan dari setiap perjalanan.
+                        Proses produksi dilakukan oleh orang berpengalaman pada bidang ini dan dibuat dengan standar
+                        ketelitian yang tinggi sehingga dapat memberikan hasil yang maksimal pada setiap produknya.
+                    </p>
+                    <p class="pera-top mb-10">
+                        Kami berkomitmen memberikan citra yang hebat terhadap souvenir rubber dengan kualitas produksi
+                        dan pelayanan yang terbaik.
                     </p>
                 </div>
             </div>
