@@ -115,7 +115,7 @@
                                 <div class="hero__caption">
                                     <span data-animation="fadeInUp" data-delay="0.2s">RAY SOUVENIR</span>
                                     <h1 data-animation="fadeInUp" data-delay="0.5s">
-                                        Produsen Souvenir Karet Bandung untuk Event & Perusahaan
+                                        Produsen Souvenir Karet Custom Bandung Untuk Event Dan Organisasi
                                     </h1>
                                 </div>
                             </div>
@@ -129,8 +129,6 @@
                             <div class="col-xl-8 col-lg-9 col-md-11 col-sm-10">
                                 <div class="hero__caption">
                                     <span data-animation="fadeInUp" data-delay="0.2s">RAY SOUVENIR</span>
-                                    <h1 data-animation="fadeInUp" data-delay="0.5s">Hadiah Unik Buatan Tangan untuk
-                                        Setiap Kesempatan</h1>
                                 </div>
                             </div>
                         </div>
