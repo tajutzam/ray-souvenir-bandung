@@ -28,11 +28,10 @@
         height: 260px;
     }
 }
-.slider-area2{
-    background-image: url(../img/hero/bg-1.jpeg);
-    background-repeat:no-repeat ;
-    background-size: cover;
-}
+
+
+
+
 
 .slider-area{
     margin-top: -1px;
@@ -276,6 +275,39 @@
 	left: 0;
 	z-index: 9;
 }
+
+$bg-mobile: "../img/hero/bg-1.jpeg";
+$bg-desktop: "../img/hero/bg-2.jpeg";
+$desktop: 992px;
+
+
+.slider-area2 {
+  background: {
+    image: url(#{$bg-mobile});
+    repeat: no-repeat;
+    position: center;
+    size: cover;
+  }
+
+  @media (min-width: $desktop) {
+    background-image: url(#{$bg-desktop});.slider-area2 {
+  background: {
+    image: url(#{$bg-mobile});
+    repeat: no-repeat;
+    position: center;
+    size: auto;
+  }
+
+  @media (min-width: $desktop) {
+    background-image: url(#{$bg-desktop});
+    background-attachment: fixed;
+  }
+}
+
+    background-attachment: fixed;
+  }
+}
+
 
 // Another Hero Page
 .slider-area2{
